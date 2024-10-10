@@ -23,7 +23,7 @@ gender = "male"
 # solution 1 - int variable + replace by ,
 print(" my name is "+ name +
       " my age is ", age ," and gender is "+ gender)
-# solution 2 - enclosed the variable inside string statement using f
+# solution 2 - enclosed the variable ins  ide string statement using f
 
 
 print("")
